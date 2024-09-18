@@ -21,4 +21,4 @@ Ah, e tem um link para cadastro também. Mas, assim como a função "Esqueceu a 
 * CSS: Deixou tudo lindo e organizado com cores degradê e bordas arredondadas.
 * Boxicons: Ícones usados para ilustrar os campos de usuário e senha.
 
-link:https://login-devflix.vercel.app/
+Link:https://login-devflix.vercel.app/
