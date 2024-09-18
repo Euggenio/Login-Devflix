@@ -1,6 +1,6 @@
 ## Login DevFlix
 
-Esse repositório guarda o código de um formulário de login bem bonitinho e funcional. Se cansou de interfaces sem graça, esse é pra você! 
+Esse repositório guarda o código de um formulário de login funcional.
 
 ###  Como funciona? 
 
